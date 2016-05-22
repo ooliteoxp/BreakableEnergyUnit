@@ -1,0 +1,30 @@
+(
+	(
+		0, 7500, "Core Energy Unit",
+		"EQ_BREAKABLE_ENERGY_UNIT_SMALL",
+		"Core Energy Unit - your ship's main power source for shields and weapons.",
+		{
+			"available_to_all" = 1;
+			"conditions" = ("mission_beu_status equal EQ_BREAKABLE_ENERGY_UNIT_SMALL");
+		}
+	),
+	(
+		0, 15000, "Core Energy Unit",
+		"EQ_BREAKABLE_ENERGY_UNIT_MEDIUM",
+		"Core Energy Unit - your ship's main power source for shields and weapons.",
+		{
+			"available_to_all" = 1;
+			"conditions" = ("mission_beu_status equal EQ_BREAKABLE_ENERGY_UNIT_MEDIUM");
+		}
+	),
+	(
+		0, 30000, "Core Energy Unit",
+		"EQ_BREAKABLE_ENERGY_UNIT_LARGE",
+		"Core Energy Unit - your ship's main power source for shields and weapons.",
+		{
+			"available_to_all" = 1;
+			"conditions" = ("mission_beu_status equal EQ_BREAKABLE_ENERGY_UNIT_LARGE");
+		}
+	)
+)
+

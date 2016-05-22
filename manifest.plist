@@ -1,0 +1,12 @@
+{
+"identifier" = "oolite.oxp.CaptMurphy.BreakableEnergyUnit";
+"required_oolite_version" = "1.80";
+"title" = "Breakable Energy Unit";
+"version" = "1.1";
+"author" = "Capt Murphy";
+"category" = "Equipment";
+"description" = "This OXP make the ships core energy unit an equipment item that can be damaged in combat.";
+"information_url" = "http://wiki.alioth.net/index.php/Breakable_%27Standard%27_Equipment_OXPs";
+"license" = "CC BY-NC-SA 3.0";
+"tags" = ( "Equipment" );
+}
